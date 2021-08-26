@@ -1,0 +1,9 @@
+{
+  "source_directories": [
+    "src"
+  ],
+  "taint_models_path": "/home/oleg.hoefling/.cache/pypoetry/virtualenvs/pyre-demo-anqVS5wL-py3.9/lib",
+  "search_path": [
+    "_typeshed/src"
+  ]
+}
